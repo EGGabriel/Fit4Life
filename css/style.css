@@ -104,6 +104,24 @@ input, select {
 /* Cores do projeto #024617 #027827 #03ab36 #02df46 #16fe5d */
 
 /* MY CODE */
+body,h1 {font-family: "Raleway", sans-serif}
+
+body, html {height: 100%}
+
+.bgimg {
+    background-image: url('../img/bg.jpg');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.w3-display-middle {
+   border: solid 1px #fff;
+    padding: 50px;
+    background-color: rgba(0,0,0,0.5    );
+
+}
+
 a {
     color: #000;
     text-decoration: none;
