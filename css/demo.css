@@ -15,8 +15,9 @@
 .clearfix:after { clear: both; }
 
 body {
-	background: ;
+	/*background: ;
 	color: ;
+	*/
 	font-size: 100%;
 	line-height: 1.25;
 	font-family: 'Lato', Arial, sans-serif;
@@ -29,7 +30,7 @@ a {
 }
 
 a:hover, a:focus {
-	color: #027827;
+	color: #02df46;
 }
 
 code {
@@ -84,7 +85,6 @@ code {
 	font-variant: normal;
 	font-family: 'codropsicons';
 	line-height: 1;
-	speak: none;
 	-webkit-font-smoothing: antialiased;
 }
 
