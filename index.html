@@ -14,6 +14,7 @@
 </head>
 
 <body>
+	<!-- Cabeçalho -->
 	<header>
 		<div class="wrapper">
 			<a href="#"><img src="img/fit4life.png" alt="Fit4Life Logo"></a>
@@ -27,10 +28,11 @@
 			</nav>
 		</div>
 	</header>
+	<!-- /Cabeçalho -->
 
-	<!-- /container -->
+	<!-- Container -->
 	<div class="container">
-		<!-- /slideshow -->
+		<!-- Slideshow -->
 		<div class="slideshow" id="slideshow">
 			<ol class="slides">
 				<li class="current">
@@ -88,14 +90,14 @@
 			</ol>
 		</div>
 		<!-- /slideshow -->
+		<script src="js/classie.js"></script>
+		<script src="js/tiltSlider.js"></script>
+		<script>
+			new TiltSlider(document.getElementById('slideshow'));
+		</script>
 	</div>
 	<!-- /container -->
 
-	<script src="js/classie.js"></script>
-	<script src="js/tiltSlider.js"></script>
-	<script>
-		new TiltSlider(document.getElementById('slideshow'));
-	</script>
 
 </body>
 
