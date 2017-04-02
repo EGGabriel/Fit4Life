@@ -116,7 +116,7 @@ body,h1 {font-family: "Raleway", sans-serif}
 body, html {height: 100%}
 
 .bgpage {
-    background-color: #027827;
+    background-color: #8d8d8d;
 }
 
 .bgimg {
@@ -243,4 +243,8 @@ nav ul li a {
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 20px;
+}
+
+.spanmt {
+    color: #16fe5d;
 }
