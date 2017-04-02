@@ -143,7 +143,7 @@ a {
 .bg {
     background-color: rgba(2,70,23,0.5);
     width: 100%;
-    border: double 10px #16fe5d;
+    border: double 15px #16fe5d;
     padding: 50px;
 }
 
@@ -234,7 +234,6 @@ nav ul li a {
     color: white;   
     font-size: 40px;
     line-height: 100px;
-    text-align: center;
 }
 .pcontact {
     color: white;
