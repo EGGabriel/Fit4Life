@@ -5,7 +5,6 @@ Last Updated: 2010-09-17
 Author: Richard Clark - http://richclarkdesign.com 
 Twitter: @rich_clark
 */
-
 html, body, div, span, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 abbr, address, cite, code,
@@ -26,7 +25,6 @@ time, mark, audio, video {
     vertical-align:baseline;
     background:transparent;
 }
-
 body {	
     /*background: ;
 	color: ;
@@ -35,43 +33,35 @@ body {
 	line-height: 1.25;
 	font-family: 'Lato', Arial, sans-serif;
 }
-
 article,aside,details,figcaption,figure,
 footer,header,hgroup,menu,nav,section { 
     display:block;
 }
-
 nav ul {
     list-style:none;
 }
-
 blockquote, q {
     quotes:none;
 }
-
 blockquote:before, blockquote:after,
 q:before, q:after {
     content:'';
     content:none;
 }
-
 a {
 	color: #9baaa7;
 	text-decoration: none;
 	outline: none;
 }
-
 a:hover, a:focus {
 	color: #02df46;
 }
-
 /* change colours to suit your needs */
 ins {
     background-color:#ff9;
     color:#000;
     text-decoration:none;
 }
-
 /* change colours to suit your needs */
 mark {
     background-color:#ff9;
@@ -79,7 +69,6 @@ mark {
     font-style:italic;
     font-weight:bold;
 }
-
 del {
     text-decoration: line-through;
 }
